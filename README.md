@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Vipul Asri
 
-<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulasri&label=Views&color=blue&style=plastic" alt="vipulasri" /> </p>
--->
 
 - 🔭 I’m currently working on Mobile Apps. 
 - 🌱 I’m currently learning more on Jetpack Compose, Flutter and Android Development.

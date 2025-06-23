@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulasri&label=Views&color=blue&style=plastic" alt="vipulasri" /> </p>
 
 - 🔭 I’m currently working on Mobile Apps. 
-- 🌱 I’m currently learning more on Jetpack Compose, Flutter and Android Development.
-- 👯 I’m looking to collaborate on Podcasts, Youtube, Projects etc.
+- 🌱 I’m currently learning more on Jetpack Compose (Android) and KMM (Kotlin Multiplatform).
+- 👯 I’m looking to collaborate on Podcasts, YouTube, Projects, etc.
 - 💬 Ask me about Android Development.
 - 📫 How to reach me: [Twitter - @vipul_asri](https://twitter.com/vipul_asri)
 - ⚡ Fun fact: Constantly searching for views that take my breath away. 
